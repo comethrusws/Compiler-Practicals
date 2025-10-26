@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> 
+
 
 int main() {
-    int a = 5;
-    printf("%d", a);
+    int a = 5; 
+    printf("%d", a); 
 }
